@@ -9,5 +9,10 @@
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0"
-  }
+  },
+  "name": "nextjs-blog",
+  "version": "1.0.0",
+  "main": "pages",
+  "author": "jxcob <starus3@gmail.com>",
+  "license": "MIT"
 }
